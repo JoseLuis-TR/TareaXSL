@@ -4,7 +4,7 @@
     <xsl:template match="/biblioteca">
         <html>
             <head>
-                <title> Biblioteca </title>
+                <title>Biblioteca</title>
             </head>
             <body>
                 <h3>Libros:</h3>
